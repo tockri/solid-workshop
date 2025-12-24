@@ -1,0 +1,10 @@
+INSERT INTO users (account_id, last_login, score, password) VALUES ('alice', '2025-10-10 10:00:00', 1200, 'pass1');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('bob', '2025-10-10 10:05:00', 950, 'pass2');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('carol', '2025-10-10 10:10:00', 1500, 'pass3');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('dave', '2025-10-10 10:15:00', 300, 'pass4');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('erin', '2025-10-10 10:20:00', 640, 'pass5');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('frank', NULL, 0, 'pass6');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('grace', '2025-10-10 10:25:00', 870, 'pass7');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('heidi', '2025-10-10 10:30:00', 430, 'pass8');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('ivan', '2025-10-10 10:35:00', 210, 'pass9');
+INSERT INTO users (account_id, last_login, score, password) VALUES ('judy', '2025-10-10 10:40:00', 1250, 'pass10');

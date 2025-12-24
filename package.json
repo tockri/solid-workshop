@@ -1,0 +1,23 @@
+{
+  "name": "solid-workshop",
+  "version": "1.0.0",
+  "description": "SOLID原則を学ぶためのワークショップ",
+  "homepage": "https://github.com/tockri/solid-workshop#readme",
+  "bugs": {
+    "url": "https://github.com/tockri/solid-workshop/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tockri/solid-workshop.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write document doc-sample"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
+}
